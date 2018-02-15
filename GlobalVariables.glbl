@@ -2,4 +2,9 @@
 <GlobalVariableEntities>
    <description></description>
    <tag></tag>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\\\Users\\\\lnw_a\\\\Desktop\\\\APK Android\\\\shop.apk'</initValue>
+      <name>pathAppShopping</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
